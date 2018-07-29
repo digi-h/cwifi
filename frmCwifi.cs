@@ -2,7 +2,7 @@
  * C# managed version of Native Wi-Fi API present on Windows.
  * http://managedwifi.codeplex.com/ .
  *
- * Licence: MIT License(MIT) Copyright(c) 2013 Ilya Konstantinov
+ * Licence: MIT License(MIT) Copyright(c) 2018 K. Lean
  * 
  */
 
